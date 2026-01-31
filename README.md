@@ -13,6 +13,8 @@ A simple Java Swing-based TicTacToe game with a clean user interface and two-pla
 3. Play the game using the GUI.
 
 Screenshots
+<img width="1366" height="720" alt="2026-01-31" src="https://github.com/user-attachments/assets/119198cc-e15c-4d68-ba26-c483c6859ecb" />
+
 
 
  Author
