@@ -4,7 +4,7 @@ A simple Java Swing-based TicTacToe game with a clean user interface and two-pla
 
 Features
 
--Two-player TicTacToe game
+- Two-player TicTacToe game
 - Play against the computer with simple AI
 - User-friendly GUI
 - Tracks player turns automatically
