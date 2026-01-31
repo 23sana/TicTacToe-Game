@@ -1,11 +1,13 @@
 TicTacToe Game
 
 A simple Java Swing-based TicTacToe game with a clean user interface and two-player functionality.
- Features
-- Two-player TicTacToe game
-- Simple and interactive GUI
+
+Features
+-Two-player TicTacToe game
+- Play against the computer with simple AI
+- User-friendly GUI
 - Tracks player turns automatically
-- Highlights the winner
+- Highlights the winner when the game ends
 
  How to Run
 1. Open the project in Eclipse.
